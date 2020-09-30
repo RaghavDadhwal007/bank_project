@@ -127,6 +127,7 @@ USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
+# Android studio file code is available soon
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
